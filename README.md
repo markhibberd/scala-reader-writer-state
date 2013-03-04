@@ -1,11 +1,10 @@
-Scala Workshop
-==============
+Scala Excercises: Reader, Writer, State
+=======================================
 
 This is an empty project with the essentials needed to
 get up and running with scala 2.10 for the first time.
 
-
-Before you arrive for the workshop it is recommened
+Before you arrive for the session it is recommened
 that you run the below to ensure you are set up properly.
 
     ./sbt compile
